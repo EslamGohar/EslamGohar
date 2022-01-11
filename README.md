@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Gohar</h1>
-<h3 align="center">A passionate mean stack developer</h3>
+<h3 align="center">A passionate MEAN Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/EslamGohar](https://github.com/EslamGohar)
 
