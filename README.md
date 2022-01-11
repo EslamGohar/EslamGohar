@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslam Gohar</h1>
-<h3 align="center">A passionate mean stack developer</h3>
+<h3 align="center">A passionate Frontend and MEAN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamgohar&label=Profile%20views&color=0e75b6&style=flat" alt="eslamgohar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamgohar" alt="eslamgohar" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/EslamGohar](https://github.com/EslamGohar)
 
