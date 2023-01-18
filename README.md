@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EslamGohar](https://github.com/EslamGohar)
 
-- 💬 Ask me about **JavaScript and Angular**
+- 💬 Ask me about **JavaScript and frameworks**
 
 - 📫 How to reach me **https://linkedin.com/in/eslam-gohar/**
 
